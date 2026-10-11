@@ -73,8 +73,6 @@ Built under the **YJDEV STUDIOS × RAGE BG** identity, the project is evolving t
 
 </div>
 
-`![Home Dashboard](screenshots/home.png)`
-
 ---
 
 ## 📥 Download & Installation
