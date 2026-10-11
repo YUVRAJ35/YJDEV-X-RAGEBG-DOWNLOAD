@@ -59,17 +59,17 @@ Built under the **YJDEV STUDIOS × RAGE BG** identity, the project is evolving t
 
 <div align="center">
 
-### The Gaming Hub Interface
+### 🏠 Home Dashboard
 
-<!-- Replace these placeholders with screenshots committed to your repository. -->
+![Gaming Hub Home](screenshots/home.png)
 
-| Home Dashboard | Mods & Modpacks |
-|:--:|:--:|
-| *Add your Home screenshot here* | *Add your Mods screenshot here* |
+### 🧩 Mods & Modpacks
 
-| Server Listings | Ghost AI |
-|:--:|:--:|
-| *Add your Server Listings screenshot here* | *Add your Ghost AI screenshot here* |
+![Mods and Modpacks](screenshots/mods.png)
+
+### 🌐 Server Listings
+
+![Server Listings](screenshots/servers.png)
 
 </div>
 
