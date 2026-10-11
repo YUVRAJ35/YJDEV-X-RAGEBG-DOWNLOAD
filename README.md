@@ -123,21 +123,6 @@ Want to run the source project locally?
 - [Git](https://git-scm.com/)
 - Windows for testing the Windows desktop application
 
-### Getting Started
-
-Run the following commands from the **application source-code repository**:
-
-```bash
-git clone YOUR_SOURCE_REPOSITORY_URL
-cd yjdev-gaming-hub
-npm install
-npm run dev:all
-```
-
-> **Important:** Replace `YOUR_SOURCE_REPOSITORY_URL` with the actual source repository URL. The public download repository may contain release files rather than the complete source code. The development commands require the source-code monorepo.
-
----
-
 ## 🗺️ Development Roadmap
 
 The Gaming Hub will continue evolving through testing, feedback, and future releases.
