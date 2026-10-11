@@ -73,8 +73,6 @@ Built under the **YJDEV STUDIOS × RAGE BG** identity, the project is evolving t
 
 </div>
 
-**Screenshot tip:** Create a `screenshots/` folder in your repository and add images such as `home.png`, `mods.png`, `servers.png`, and `ghost-ai.png`. Then replace the placeholders with image links like:
-
 `![Home Dashboard](screenshots/home.png)`
 
 ---
